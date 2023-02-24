@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enbermudas
 - 👀 I’m interested in Javascript, React and Node.
 - 🌱 I’m currently learning Nextjs.
-- 💞️ I’m looking to collaborate on Greenlight.
+- 💞️ Fucllstack developer at [Greenlight](https://greenlight.com/)
 - 📫 How to reach me: go ahead an send an email: enrique.bermudez.dev@gmail.com or take a look to my portfolio: [enbermudas.dev](https://enbermudas.dev/)
