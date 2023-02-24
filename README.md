@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enbermudas
 - 👀 I’m interested in Typescript and React.
 - 🌱 I’m currently learning Nextjs.
-- 💞️ Fullstack developer at [Greenlight](https://greenlight.com/)
+- 💞️ Fullstack developer at [Greenlight](https://greenlight.com/careers)
 - 📫 How to reach me: go ahead an send an email: enrique.bermudez.dev@gmail.com or take a look to my portfolio: [enbermudas.dev](https://enbermudas.dev/)
